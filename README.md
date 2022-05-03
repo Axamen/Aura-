@@ -9,7 +9,7 @@ Aura is an concept  UI prototype of an relaxation application. It is kinda like 
 
 **Figma & Adobe XD** -- To design the prototype of the application.
 
-Behance : https://www.behance.net/gallery/141150831/Aura
+**Behance** : https://www.behance.net/gallery/141150831/Aura
 
 --------------------------  ***  ----------------------------
 
